@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prajwal Yadav  
+# Hi 👋, I'm Prajwal
 
 | Engineering Student | Aspiring Software Developer | Tech Enthusiast  | 
 |----------|----------|----------|
